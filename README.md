@@ -10,7 +10,7 @@ Hink, brainchild of Henric Ehrenblad, Limestone Lab Limited, is a platform desig
 - **Programming Languages**: Go, Dart, Javascript, HTML, CSS, Lua
 - **Frameworks**: React, Flutter, Kong
 - **Databases**: MySQL, ElasticSearch, Redis
-- **Infrastructure**: GCP (GKE), AWS S3, AWS Lambda, Google Maps API, Stripe
+- **Infrastructure**: GCP (GKE), AWS (S3, Lambda), Google Maps API, Stripe
 
 ## 3. Challenges and Solutions
 
