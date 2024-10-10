@@ -1,0 +1,159 @@
+{
+  "main": {
+    "id": "64ab792d844ba805",
+    "type": "split",
+    "children": [
+      {
+        "id": "2584a7440c2786f6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3b48152f5645d94a",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "assets/Screenshot+2022-09-04+at+11.39.04+AM 1.png"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b2591d094ba02ec4",
+    "type": "split",
+    "children": [
+      {
+        "id": "ca7ab179dc53f4c2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aae359b9362e75db",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "995e15b5a1fde699",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "76df95ff9e6ffd79",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "491e828a8c01d8c3",
+    "type": "split",
+    "children": [
+      {
+        "id": "76db87c0ecb4ac04",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a4e588a030df4212",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "assets/Screenshot+2022-09-04+at+11.39.04+AM 1.png",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ec1d934e9f74b60a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "assets/Screenshot+2022-09-04+at+11.39.04+AM 1.png",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "bfc6a59f21eb5995",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "65b59779c1050819",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "assets/Screenshot+2022-09-04+at+11.39.04+AM 1.png"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "3b48152f5645d94a",
+  "lastOpenFiles": [
+    "README.md.md",
+    "README.md",
+    "docs.md",
+    "assets/Screenshot+2022-09-04+at+11.39.04+AM 1.png",
+    "assets/Screenshot+2022-09-04+at+11.39.04+AM.png",
+    "assets/Screenshot 2024-10-10 at 14.36.53.png",
+    "assets/Screenshot 2024-10-07 at 11.37.13.png",
+    "assets",
+    "Welcome.md"
+  ]
+}
