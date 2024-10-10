@@ -11,9 +11,11 @@
             "id": "3b48152f5645d94a",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "assets/Screenshot+2022-09-04+at+11.39.04+AM 1.png"
+                "file": "README.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "assets/Screenshot+2022-09-04+at+11.39.04+AM 1.png",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "assets/Screenshot+2022-09-04+at+11.39.04+AM 1.png",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "assets/Screenshot+2022-09-04+at+11.39.04+AM 1.png"
+                "file": "README.md"
               }
             }
           }
@@ -144,14 +146,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3b48152f5645d94a",
+  "active": "aae359b9362e75db",
   "lastOpenFiles": [
-    "README.md.md",
+    "assets/logo.png",
     "README.md",
+    "README.md.md",
     "docs.md",
-    "assets/Screenshot+2022-09-04+at+11.39.04+AM 1.png",
     "assets/Screenshot+2022-09-04+at+11.39.04+AM.png",
-    "assets/Screenshot 2024-10-10 at 14.36.53.png",
+    "assets/statistics.png",
     "assets/Screenshot 2024-10-07 at 11.37.13.png",
     "assets",
     "Welcome.md"

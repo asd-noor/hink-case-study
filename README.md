@@ -1,4 +1,4 @@
-![[Screenshot+2022-09-04+at+11.39.04+AM 1.png]]
+![LOGO](assets/logo.png)
 
 # Streamlining Media Sharing for Events and Action Photography
 
@@ -22,7 +22,7 @@ Hink, brainchild of Henric Ehrenblad, Limestone Lab Limited, is a platform desig
 # 4. Impact
 After launching, Hink got huge attention from the hobbyist photographers as well as general mass.
 
-![[Screenshot 2024-10-10 at 14.36.53.png]]
+![Impact](assets/statistics.png)
 
 # 5. Team Involvement
 - Developers: 2 Backend, 1 Mobile, 1 Frontend
