@@ -39,7 +39,7 @@ As a project manager and tech lead of Hink, Asaduzzaman Noor ensured that client
 Provide a high-level timeline of the project, including:
 - Initial Discovery and Planning: 1 month
 - Initial Design Phase: 2 weeks
-- Initial Development: 6 months
+- Initial Development: 4 months
 - Initial Testing and Quality Assurance: 1 week
 - Deployment & Post-launch Support: Perpetual
 
